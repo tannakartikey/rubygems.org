@@ -45,6 +45,7 @@ gem 'xml-simple'
 gem 'compact_index', '~> 0.11.0'
 gem 'sprockets-rails'
 gem 'rack-attack'
+gem 'bootsnap', require: false
 
 # Logging
 gem 'lograge'
